@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: aqua  ; */
+    font-size: 35px;
+
+
+   
+}
+body{
+    text-align: center;
+    /* background-image: url(./quiz\ back4.jpg);
+    background-position: center;
+    background-size: initial;
+    background-repeat: no-repeat; */
+
+    background-color: rgb(201, 245, 247);
+
+    /* background-image: url(./quiz\ back6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+#main{
+
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 70px;
+    left: 400px;
+    border: 2px solid black;
+    border-top-right-radius: 55px;
+    border-bottom-left-radius: 55px;
+
+
+
+
+
+
+
+    background-color: rgba(192, 172, 172, 0.418);
+    width: 800px;
+    /* background-color: yellow; */
+    background-image: url(./div\ back\ 1.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 170px; */
+    /* box-shadow: 5px 8px 15px red; */
+
+    
+}
+
+#main1{
+    text-align: center;
+    /* background-color: gray; */
+
+  
+}
+
+#main2{
+    /* text-align: center; */
+    /* background-color: gray; */
+    position: relative;
+    left: -250px;
+    /* border-style: 2px solid red; */
+    /* background-color: turquoise; */
+
+  
+}
+button{
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+    font-size: 45px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:darkgray;
+
+}
+/* .left{
+    margin-left: 100px;
+    
+} */
+input{
+    /* text-decoration: none; */
+    border: 2px solid rgb(104, 83, 83);
+    cursor: pointer;
+    text-align: start;
+    justify-content: left;
+    
+
+
+}
+/* label{
+    background-color: tomato;
+    
+} */
+
+
